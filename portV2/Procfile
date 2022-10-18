@@ -1,0 +1,1 @@
+web: gunicorn portV2.wsgi --log-file
