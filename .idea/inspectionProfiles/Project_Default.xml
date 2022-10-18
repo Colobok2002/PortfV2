@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="admin_site.auntf.auth.User" />
+          <option value="main.login.models._" />
+          <option value="speech_recognition" />
+          <option value="test_test.products.models.Category.*" />
+          <option value="dict.__getitem__" />
+          <option value="products.models.Category.*" />
+          <option value="products.models.Tags.*" />
+          <option value="products.models.Podcategory.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
